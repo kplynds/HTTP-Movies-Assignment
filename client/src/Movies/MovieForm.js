@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams, useHistory } from "react-router-dom";
 import axios from "axios";
-
+// yewwww
 const getNumber = (string) => {
   var int = "";
   for (let i = 0; i < string.length; i++) {
